@@ -1,0 +1,7 @@
+{
+  "name": "IHI",
+  "description": "A modern, AI-powered image gallery that automatically tags and describes your photos using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
